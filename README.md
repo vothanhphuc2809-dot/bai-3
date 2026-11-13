@@ -19,6 +19,8 @@ Sử dụng lệnh:
 
 ### 4. Kết quả
 Terminal hiển thị danh sách sinh viên có điểm từ 5 trở lên.
+
+
 <img width="384" height="73" alt="image" src="https://github.com/user-attachments/assets/743b4662-b1ef-4f4b-8ac3-95302d7743f2" />
 
 
